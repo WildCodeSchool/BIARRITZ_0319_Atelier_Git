@@ -1,0 +1,4 @@
+- Récupère le projet localement et créer un nouveau fichier à la racine en suivant cette nomenclature {NOM}_{PRENOM}.md. Bien sur met un minimum de contenu dedans. ex. : “pongwIj 'oH {Nom} {Prénom}”
+- Envoi le sur le repository distant (add / commit / push)
+- Une fois que tout le monde a bien envoyé son fichier, choisi un binôme. Tu vas devoir modifier le contenu de son fichier en y ajoutant ton nom et prénom. Pour cela tu dois mettre ton projet à jour (pull) car tu n’as pas tous les nouveaux fichiers, puis modifier le fichier de ton binôme
+- Et enfin renvoyer tes modifs sur le repository distant (add / commit / push)
